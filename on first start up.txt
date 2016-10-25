@@ -1,0 +1,54 @@
+on first start up
+
+User need to set up initial parameter:
+_ Monthly/annually income
+_ Monthly rent (if any)
+_ Paid rent day (if any)
+_ currency (vnd, usd, yen, ...)
+
+preference
+_when using wifi/3g connection, position will be tag using GPS
+_ below example only for spending transaction(using money)
+
+watch movie for 50,000vnd
+
+
+bought 50,000 phone card
+phone payment recorded
+
+how much was it?
+100,000d
+ok, transaction recorded for 100,000d
+
+i filled gas today 50,000
+ok, transaction recorded for 50,000
+
+i filled gas today
+I bought 2 books today
+how much was it?
+60,000
+Ok, I made your transaction 
+
+I borrow 2,000,000d from tin today
+ok, got it.
+When do you plan to payback the money?
+next week?
+Ok, your transaction was made due next Friday, November 11th
+
+I paid rent today
+use case 1: (if user already set up rent) ok, got it
+use case 2: (if user haven't set up rent) 
+how much was it?
+600,000
+would you like to set this as monthly rent?
+use case 1 (agreed):
+yes
+your monthly rent is set up
+ok, i recorded your rent this month
+use case 2 (disagreed):
+no
+ok , i recorded your rent
+
+Bought groceries today for 100,000d
+ok, recorded
+
